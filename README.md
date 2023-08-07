@@ -15,7 +15,8 @@ reading assigment `https://canvas.instructure.com/courses/7267075/discussion_top
            programming and managing relational       
            databases. It is designed for             
            querying and manipulating data stored in  
-           a relational database management system. |   
+           a relational database management system. |
+|Terminal  | all the commands existed in the toturial we took them in the prep-course the only new commands learned are copying the files and movie them, leaning this helps in contoling the repo and the files from the terminal|              
            
 
 
