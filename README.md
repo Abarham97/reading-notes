@@ -14,7 +14,7 @@ reading assigment `https://canvas.instructure.com/courses/7267075/discussion_top
 |----------|--------------------------------------------------------------------------------------------------------------|
 | SQL      | Structured Query Language (SQL) is a domain-specific language used in programming and managing relational databases. It is designed for querying and manipulating data stored in a relational database management system. |
 | Terminal | This section covers all the commands learned in the tutorial. We covered the commands during the prep course. The only new commands we learned are related to copying and moving files. Understanding these commands helps in controlling the repository and managing files from the terminal. |
-
+Reading 1 | This reading gives basics about java such as java is a strict language and the types of data types in it 'primitive data types',how to console out in java using "system.out.print", the reserved words in java and how the compiler in java is differnt than in java script|
 
 
 ## Things I want to know more about 
