@@ -19,8 +19,12 @@ The Growth Mindset
 | Terminal | This section covers all the commands learned in the tutorial. We covered the commands during the prep course. The only new commands we learned are related to copying and moving files. Understanding these commands helps in controlling the repository and managing files from the terminal. |
 Reading 1 | This reading gives basics about java such as java is a strict language and the types of data types in it 'primitive data types',how to console out in java using "system.out.print", the reserved words in java and how the compiler in java is differnt than in java script|
 Reading 2 | This reading gives heads up about exceptions and statments to handle them , what the scanner inputs are broken into, the differences between int and Integer, the default values for each, the difference between unboxing and autoboxing, and an example of a program that can use scan for text|
+
+ Reading05 |  A linked list is a dynamic data structure used to store collections of data. An analogy likens it to a chain of paper clips, with each clip representing a node containing a value and a pointer to the next node. The linked list allows for dynamic addition and removal of nodes. The process of adding involves creating a new node object, updating pointers, and handling special cases. Linked lists are useful for scenarios with changing data sizes due to their efficient insertion and deletion operations. The summary also provides a walkthrough example of defining node and linked list classes, adding nodes, and printing the list. It offers a cheat sheet for quick reference on node and linked list class structures, adding and deleting nodes, and searching for values. A visual representation of a linked list is provided, showing the concept of nodes and pointers in action.|
+
 Reading03 | int is a primitive data type for basic integer calculations, while Integer is an object-oriented class for more complex integer operations. Default values differ, and autoboxing/unboxing automate conversions. Exceptions have various categories, and the try-catch statement handles them. Scanner breaks input into tokens, and plagiarism detection tools help educators identify copied content.|
 Reading04 |  Difference between an Object and a Class,Types of State for a Student Object,Types of Behaviors for a Student Object,Significance of a Constructor for a Class,Binary, Decimal, and Hexadecimal Numbers|
+
 
 
 
