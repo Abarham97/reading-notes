@@ -8,9 +8,14 @@ reading assigment `https://canvas.instructure.com/courses/7267075/discussion_top
 ## 2.  Code 201 - Foundations of Software Development
 ## 3. Code 301 - Intermediate Software Development
 ## 4. Code 401 - Advanced Software Development
-## 
-The Growth Mindset
+## The Growth Mindset
 [link to Mindset](./READMEMindset.md)
+## Class 06
+
+[link to Class06](./class06.md)
+
+
+
 
 
 | Heading  | Description                                                                                                  |
