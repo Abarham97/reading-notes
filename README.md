@@ -14,6 +14,10 @@ reading assigment `https://canvas.instructure.com/courses/7267075/discussion_top
 
 [link to Class06](./class06.md)
 
+## class 08
+
+[link to class08](./DRY.md)
+
 
 
 
