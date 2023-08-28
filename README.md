@@ -1,4 +1,4 @@
-# **reading-notes**
+## **reading-notes**
 
 # *this reading notes to solve the assigments and  keep track of your observations and questions from the reading assignments throughout your course.*
 
@@ -17,6 +17,10 @@ reading assigment `https://canvas.instructure.com/courses/7267075/discussion_top
 ## class 08
 
 [link to class08](./DRY.md)
+
+## class 09
+
+[link to class09](./HTTP.md)
 
 
 
