@@ -25,6 +25,8 @@ reading assigment `https://canvas.instructure.com/courses/7267075/discussion_top
 ## MVC 
 [link to MVC](./Spring%20MVC.md)
 
+[link to class 12](./reademe12.md)
+
 
 
 
