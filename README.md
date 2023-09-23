@@ -26,6 +26,8 @@ reading assigment `https://canvas.instructure.com/courses/7267075/discussion_top
 [link to MVC](./Spring%20MVC.md)
 
 [link to class 12](./reademe12.md)
+[link to class 13](./reademe13.md)
+[link to class 18](./class18.md)
 
 
 
