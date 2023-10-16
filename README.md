@@ -29,6 +29,7 @@ reading assigment `https://canvas.instructure.com/courses/7267075/discussion_top
 [link to class 13](./reademe13.md)
 [link to class 18](./class18.md)
 [link to class 19](./class19.md)
+[link to class 26](./class26.md)
 
 
 
